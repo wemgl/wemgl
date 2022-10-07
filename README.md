@@ -1,5 +1,5 @@
 ### Hi there 👋🏾 my name's Wembley
 
-- 🔭 I’m helping to build the security identity platform [@CLEAR](https://clearme.com).
-- 🦀 I’m learning [Rust](https://rust-lang.org).
-- 👋🏾 You can reach me at <wembley.gl@gmail.com>.
+- 🔭 Senior Software Engineer [@CLEAR](https://clearme.com).
+- 🦀 [Rustacean](https://rust-lang.org).
+- 👋🏾 You can reach me at [@wembleyleach](https://twitter.com/@wembleyleach).
